@@ -4,7 +4,11 @@ This repository contains an Apache Flink application for real-time transaction a
 
 ## Requirements
 - Docker
-- Flink
+- Apache Kafka
+- Apache Flink
+- PostgreSQL
+- Elastisearch
+- Kibana
 
 ## System Design
 ![System Design.png](System%20Design.png)
